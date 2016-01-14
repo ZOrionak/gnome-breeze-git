@@ -1,5 +1,5 @@
 pkgname=gnome-breeze-git
-pkgver=r69.3cb67a6-1
+pkgver=r69.3cb67a6
 pkgrel=1
 pkgdesc="A GTK theme created to match with the new Plasma 5 Breeze."
 arch=('any')
